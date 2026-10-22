@@ -1,6 +1,6 @@
 Nome do projeto
 Aluno: Altamiro Verissimo da Silveira Junior
-Orientadora: Manuela Kohler.
+Orientadora: Manoela Kohler.
 Co-orientador(/a/es/as): Nome Sobrenome. 
 
 
